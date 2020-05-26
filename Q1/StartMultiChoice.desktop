@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=StartMultiChoice
+Comment=Run
+Exec=~/Q1p1/StartMultiChoice
+Icon=
+Terminal=false
+Type=Application
+

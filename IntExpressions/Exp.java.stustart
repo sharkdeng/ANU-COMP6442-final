@@ -1,0 +1,55 @@
+
+// Exp - a simple integer mathematical expression
+// Eric McCreath 2018
+
+public abstract class Exp {
+	abstract int evaluate(); // calculate the value of the expression
+	abstract String show();
+	
+	
+	// In your solution you may only modify the static methods parse, parseExp, and parseTerm.  
+	// You may not modify any other classes or methods.  You may not add any fields or methods to this abstract class.
+	public static Exp parse(Tokenizer t) throws ParseException {
+		// modify the code in this method for your solution
+		return parseExp(t);
+	}
+
+	private static Exp parseExp(Tokenizer t) throws ParseException {
+		// modify the code in this method for your solution
+		Exp term = parseTerm(t);
+		if (!t.done()) {
+			if (t.current().isTheSymbol('+')) {
+				t.next();
+				Exp exp = parseExp(t);
+				return new BinExp(term, '+', exp);
+			} else if (t.current().isTheSymbol('-')) {
+				t.next();
+				Exp exp = parseExp(t);
+				return new BinExp(term, '-', exp);
+			} else {
+				return term;
+			}
+		} else {
+			return term;
+		}
+	}
+
+	private static Exp parseTerm(Tokenizer t) throws ParseException {
+		// modify the code in this method for your solution
+		if (t.current().isTheSymbol('(')) {
+			t.next();
+			Exp e = parseExp(t);
+			if (t.current().isTheSymbol(')')) {
+				t.next();
+				return e;
+			} else
+				throw new ParseException(") expected");
+		} else if (t.current().isNumber()) {
+			int v = t.current().number();
+			t.next();
+			return new LitExp(v);
+		}
+		throw new ParseException("bracket or number expected");
+	}
+
+}

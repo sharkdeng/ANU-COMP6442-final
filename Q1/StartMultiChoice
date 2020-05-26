@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd /home/u4033585/Q1p1
+java -jar MultiChoice.jar
+

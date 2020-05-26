@@ -1,0 +1,209 @@
+<questions>
+
+<question>
+<number>Q01</number>
+<statement> In UML class diagrams inheritance is a _______ relationship.   That is when a line connects class A to class B with empty arrow then class A extends class B. 
+</statement>
+<answer>'has a'</answer>
+<answer>'uses'</answer>
+<answer>'is a'</answer>
+<answer>'does a'</answer>
+</question>
+
+<question>
+<number>Q02</number>
+<statement>To obtain a copy of a remote GIT repo you would use the git ______ command.
+</statement>
+<answer>add</answer>
+<answer>pull</answer>
+<answer>fork</answer>
+<answer>clone</answer>
+</question>
+
+pull
+
+<question>
+<number>Q03</number>
+<statement>In relation to Android development which alternative is 'false' about an app manifest?
+</statement>
+<answer>Every app must have a manifest, otherwise it can't run</answer>
+<answer>The manifest's file extension is .class</answer>
+<answer>Lists the libraries that an app must be linked against</answer>
+<answer>Specifies the Java package name</answer>
+</question>
+
+The manifest's file extension is .class
+
+
+
+
+
+<question>
+<number>Q04</number>
+<statement> In Android what does the fill_parent option do?
+</statement>
+<answer>Set dimension to only size required fit content</answer>
+<answer>Match dimension to parent</answer>
+<answer>Is used to inherit all the properties of the parent</answer>
+<answer>Creates another activity as an exact replica of the parent</answer>
+</question>
+
+Match dimension to parent
+
+
+
+<question>
+<number>Q05</number>
+<statement>Macros in the "make" tool  ______________
+</statement>
+<answer>always expand to the same value.</answer>
+<answer>always expand to the same value within a single launch of make.</answer>
+<answer>may expand to different values within a single launch of make.</answer>
+<answer>always expand to different values.</answer>
+</question>
+
+always expand to the same value within a single launch of make.
+
+
+
+<question>
+<number>Q06</number>
+<statement>In the context of persistent storage which statement is correct?
+</statement>
+<answer>The kind of data we are using is irrelevant to our choice of data persistence.</answer>
+<answer>Bespoke methods often lack robustness.</answer>
+<answer>JSON uses the same tag syntax as XML for marking up data.</answer>
+<answer>JSON runs an SQL database to store data.</answer>
+</question>
+
+<question>
+<number>Q07</number>
+<statement>Under the observer design pattern, when the library wishes to notify the code using the library of an event, it simply calls the ______ in all the registered ______
+</statement>
+<answer>constructor, observers</answer>
+<answer>constructor, screens</answer>
+<answer>notification method, observers</answer>
+<answer>notification method, screens</answer>
+</question>
+
+notification method, observers
+
+
+<question>
+<number>Q08</number>
+<statement>In OO programming ___________ create objects.
+</statement>
+<answer>destructors</answer>
+<answer>all primitive operators</answer>
+<answer>observers</answer>
+<answer>factories</answer>
+</question>
+
+factories
+
+
+<question>
+<number>Q09</number>
+<statement>With AVL trees the balance factor for an inner node is the height of the left child sub-tree _____ the height of the right sub-tree. 
+</statement>
+<answer>minus</answer>
+<answer>plus</answer>
+<answer>times</answer>
+<answer>divided by</answer>
+</question>
+
+
+
+<question>
+<number>Q10</number>
+<statement>Validation certifies that the system meets the requirements (______________).
+</statement>
+<answer>building the thing right</answer>
+<answer>building the right thing</answer>
+<answer>verifing code correctness</answer>
+<answer>authenticating design stability</answer>
+</question>
+
+building the thing right
+
+
+<question>
+<number>Q11</number>
+<statement>________  tests are created purely on functional requirements, whereas, ________ tests are constructed based on the code.
+</statement>
+<answer>black-box,  white-box</answer>
+<answer>black-box,  load</answer>
+<answer>white-box,  load</answer>
+<answer>white-box, black-box</answer>
+</question>
+
+black-box, white-box
+
+
+<question>
+<number>Q12</number>
+<statement>
+What is the order of the below method?
+&lt;pre&gt;
+    void method12(int n) {
+        System.out.println("Hello");
+        if (n &amp;gt; 0) {
+            method12(n/2);
+        }
+    }
+&lt;/pre&gt;
+</statement>
+<answer>O(1)</answer>
+<answer>O(lg(n))</answer>
+<answer>O(n)</answer>
+<answer>O(n lg(n))</answer>
+</question>
+
+
+<question>
+<number>Q13</number>
+<statement>
+What is the order of the below method?
+&lt;pre&gt;
+    void method13(int n) {
+      int i=0,j=0,k=0;
+      for(i=0;i&amp;lt; n;i++) {
+        for(j=0;k&amp;lt; n;j++) { 
+          for(k=0;k&amp;lt; n;k++) {
+            System.out.println("hello");
+          }
+        }
+      }
+    }
+&lt;/pre&gt;
+</statement>
+<answer>O(1)</answer>
+<answer>O(n)</answer>
+<answer>O(n^2)</answer>
+<answer>O(n^3)</answer>
+</question>
+
+<question>
+<number>Q14</number>
+<statement>Which of the following is correct:
+</statement>
+<answer> Copyright usually lasts ten years and can be renewed indefinitely</answer>
+<answer> Computer code is not covered by the Copyright Act</answer>
+<answer>Data cannot be protected by Copyright</answer>
+<answer>The author of copyright material is usually the owner, unless the work is produced as an employee in which case the employer is usually the owner</answer>
+</question>
+
+<question>
+<number>Q15</number>
+<statement>Which of the following is incorrect:
+</statement>
+<answer>Regular expressions are an example of a finite state machine</answer>
+<answer>Finite state machines can only be used for accepting regular expressions.</answer>
+<answer>In a real world application the number of states that could be represented by a finite state machine could be prohibitively large.</answer>
+<answer>Finite state machines can be used to model both hardware and software.</answer>
+</question>
+
+
+
+
+</questions>

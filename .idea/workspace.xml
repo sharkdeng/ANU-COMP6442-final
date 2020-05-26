@@ -1,0 +1,516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a700163f-ddad-45ab-afa7-51d19c3f7c88" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/StudentGrades/src/InvalidIDException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StudentGrades/src/InvalidMarkException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGrades/src/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGrades/src/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGrades/src/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGrades/src/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGrades/src/StudentGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGrades/src/StudentGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StudentGrades/src/TestGrades.java" beforeDir="false" afterPath="$PROJECT_DIR$/StudentGrades/src/TestGrades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentGrades/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudentGrades/Grades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentGrades/StudentGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudentGrades/StudentGrades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/StudentGrades/TestGrades.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/StudentGrades/TestGrades.class" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/StudentGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="47" column="52" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="52" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/TestGrades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="92" column="4" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/InvalidMarkException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#106#107#0" expanded="true" />
+                <element signature="e#137#138#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/InvalidIDException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+              <folding>
+                <element signature="e#104#105#0" expanded="true" />
+                <element signature="e#135#136#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/Student.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+              <folding>
+                <element signature="e#95#96#0" expanded="true" />
+                <element signature="e#118#119#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/src/Grades.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="201">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1046#1047#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-537">
+              <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/StudentGrades/outline.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>put</find>
+      <find>Exc</find>
+      <find>Invalid</find>
+      <find>Excep</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/StudentGrades/src/Grade.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/InvalidTypeException.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/InvalidMarkException.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/InvalidIDException.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/Grades.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/StudentGrades.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/Student.java" />
+        <option value="$PROJECT_DIR$/StudentGrades/src/TestGrades.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="122" />
+    <option name="y" value="23" />
+    <option name="width" value="1288" />
+    <option name="height" value="795" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="exam2018s2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentGrades" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="exam2018s2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="StudentGrades" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.TestGrades.testStudentIDInvalidCharacter">
+    <configuration name="TestGrades" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentGrades" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGrades" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGrades.testExam12" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentGrades" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGrades" />
+      <option name="METHOD_NAME" value="testExam12" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGrades.testStudentID1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentGrades" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGrades" />
+      <option name="METHOD_NAME" value="testStudentID1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGrades.testStudentIDIncorrectLength" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentGrades" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGrades" />
+      <option name="METHOD_NAME" value="testStudentIDIncorrectLength" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestGrades.testStudentIDInvalidCharacter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="StudentGrades" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestGrades" />
+      <option name="METHOD_NAME" value="testStudentIDInvalidCharacter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestGrades.testStudentIDInvalidCharacter" />
+        <item itemvalue="JUnit.TestGrades" />
+        <item itemvalue="JUnit.TestGrades.testStudentIDIncorrectLength" />
+        <item itemvalue="JUnit.TestGrades.testStudentID1" />
+        <item itemvalue="JUnit.TestGrades.testExam12" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a700163f-ddad-45ab-afa7-51d19c3f7c88" name="Default Changelist" comment="" />
+      <created>1573607907590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573607907590</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="TestGrades - 2019.11.13 at 19h 08m 09s.xml">
+      <configuration name="TestGrades" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades - 2019.11.13 at 19h 08m 43s.xml">
+      <configuration name="TestGrades" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades - 2019.11.13 at 19h 08m 57s.xml">
+      <configuration name="TestGrades" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades - 2019.11.13 at 19h 10m 40s.xml">
+      <configuration name="TestGrades" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades_testStudentID1 - 2019.11.13 at 19h 12m 08s.xml">
+      <configuration name="TestGrades.testStudentID1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades_testStudentID1 - 2019.11.13 at 19h 12m 52s.xml">
+      <configuration name="TestGrades.testStudentID1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades_testStudentIDIncorrectLength - 2019.11.13 at 19h 13m 12s.xml">
+      <configuration name="TestGrades.testStudentIDIncorrectLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades_testStudentIDIncorrectLength - 2019.11.13 at 19h 13m 45s.xml">
+      <configuration name="TestGrades.testStudentIDIncorrectLength" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades - 2019.11.13 at 19h 14m 02s.xml">
+      <configuration name="TestGrades" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="TestGrades_testStudentIDInvalidCharacter - 2019.11.13 at 19h 14m 27s.xml">
+      <configuration name="TestGrades.testStudentIDInvalidCharacter" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="122" y="23" width="1288" height="795" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24959871" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32859176" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32859176" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32859176" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk-11.0.4.jdk/Contents/Home/lib/src.zip!/java.base/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-537">
+          <caret line="95" column="32" lean-forward="true" selection-start-line="95" selection-start-column="32" selection-end-line="95" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/good.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/Grade.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/InvalidMarkException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#106#107#0" expanded="true" />
+            <element signature="e#137#138#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/InvalidIDException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
+          <folding>
+            <element signature="e#104#105#0" expanded="true" />
+            <element signature="e#135#136#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/outline.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/StudentGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="47" column="52" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/Grades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1046#1047#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="16" column="80" selection-start-line="16" selection-start-column="80" selection-end-line="16" selection-end-column="80" />
+          <folding>
+            <element signature="e#95#96#0" expanded="true" />
+            <element signature="e#118#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/StudentGrades/src/TestGrades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="92" column="4" selection-start-line="92" selection-start-column="4" selection-end-line="92" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

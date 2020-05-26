@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="MultiChoice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Q1/MultiChoice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
